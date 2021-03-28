@@ -1,2 +1,2 @@
 # MagixVS.github.io
-Ошибка: перейдите по ссылке htts://MagixVS.github.io/index.html
+Ошибка: перейдите по ссылке https://MagixVS.github.io/index.html
